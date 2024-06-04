@@ -1,4 +1,4 @@
-# HR-report
+# HR-dashboard
 
 Link to the power bi dashboard:
 
