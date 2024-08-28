@@ -8,6 +8,7 @@ Connecting and retrieving the Data from SQL database
 Creating the Data Model  
 Adding DAX Measures  
 Building the Report  
+Publishing the Report
 
 # Link to the power bi dashboard:
 
@@ -16,3 +17,5 @@ Building the Report
 # Preview of the Dashboard:
 [view the report](Tanja%20MB%20Project%20Report.pdf)
 
+# Preview of the DataModel:
+[view the Data Model](HRDataModel.png)
