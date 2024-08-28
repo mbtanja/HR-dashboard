@@ -14,4 +14,5 @@ Building the Report
 [<iframe title="Tanja MB Project file" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjcwMTgzNWQtNmRjYS00NmRhLTllYjAtNWE0ZjVlOWRiYTFiIiwidCI6IjEzMjViNTdhLTFjZmItNGFhZC04YTZkLTNkYmRiNWJjYjQyZCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>](https://app.powerbi.com/view?r=eyJrIjoiZjcwMTgzNWQtNmRjYS00NmRhLTllYjAtNWE0ZjVlOWRiYTFiIiwidCI6IjEzMjViNTdhLTFjZmItNGFhZC04YTZkLTNkYmRiNWJjYjQyZCIsImMiOjl9)
 
 # Preview of the Dashboard:
-[view the report](Tanja.MB.Project.Report.pdf)
+[view the report](Tanja%20MB%20Project%20Report.pdf)
+
