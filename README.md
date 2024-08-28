@@ -18,4 +18,4 @@ Publishing the Report
 [view the report](Tanja%20MB%20Project%20Report.pdf)
 
 # Preview of the DataModel:
-[view the Data Model](HRDataModel.png)
+![view the Data Model](HRDataModel.png)
